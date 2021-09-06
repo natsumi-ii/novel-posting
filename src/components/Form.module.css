@@ -1,0 +1,25 @@
+.container {
+    width: 90%;
+    margin: 20px auto 0px;
+}
+
+.card {
+    background-color: rgb(244, 244, 244);
+    width: 100%;
+    display: block;
+    border: 1px solid rgb(244, 244, 244);
+    border-radius: 3px;
+}
+
+.title {
+    height: 50px;
+    margin-bottom: 20px;
+}
+
+ .text {
+    height: 350px;
+ }
+
+ .button_wrapper {
+     text-align: center;
+ }
