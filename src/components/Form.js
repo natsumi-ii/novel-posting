@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-import Button from "../UI/Button";
+import Button from "./Button";
 import Category from "./Category";
 import classes from "./Form.module.css";
 
