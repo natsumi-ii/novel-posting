@@ -4,16 +4,17 @@
 }
 
 .card {
-    background-color: rgb(244, 244, 244);
+    /* background-color: rgb(244, 244, 244); */
     width: 100%;
     display: block;
-    border: 1px solid rgb(244, 244, 244);
-    border-radius: 3px;
+    border-radius: 5px;
+    border: 2px solid rgb(244, 244, 244);
+    margin-top: 10px;
 }
 
 .title {
     height: 50px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
  .text {
